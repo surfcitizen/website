@@ -1,0 +1,48 @@
+.left_column
+{
+    margin:auto;
+    line-height:40px;
+    width:1000px;
+    padding:10px;
+}
+
+.right_column
+{
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+
+    float:right;
+    padding:5px; 
+}
+
+#nav_container
+{
+   list-style-type:none;
+   margin-bottom: 15px;
+   background-color: ghostwhite;
+}
+
+#nav_container li
+{
+    display:inline-block;
+}
+
+#nav_container li a
+{
+    display:inline-block;
+    text-decoration:none;
+    padding:5px;
+    color:black;
+}
+
+#nav_container li a:hover
+{
+    background-color:red  
+}
+
+body
+{
+    background-image: url(http://www.bluenileinfra.com/wp-content/uploads/2015/05/Savin-NY-Website-Background-Web.jpg?3710d3);
+background-repeat: repeat-Y;
+}
